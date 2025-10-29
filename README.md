@@ -6,8 +6,8 @@ This project focuses on **restoring damaged or missing regions in images** using
 
 ## 🎯 Project Overview
 
-Image inpainting aims to reconstruct lost or deteriorated parts of images in a visually plausible way.  
-Traditional approaches rely on texture propagation and diffusion methods (like Telea or Navier–Stokes), but in this project, we employ a **GAN-based approach (Pix2Pix)** to learn the mapping between **damaged images and their restored versions**.
+- Image inpainting aims to reconstruct lost or deteriorated parts of images in a visually plausible way.  
+- Traditional approaches rely on texture propagation and diffusion methods (like Telea or Navier–Stokes), but in this project, we employ a **GAN-based approach (Pix2Pix)** to learn the mapping between **damaged images and their restored versions**.
 
 ---
 
