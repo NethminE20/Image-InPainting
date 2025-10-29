@@ -68,8 +68,8 @@ This project focuses on **restoring damaged or missing regions in images** using
   - Quantitative results show improvements in PSNR and SSIM over traditional inpainting techniques.
 
 <p align="center">
-  <img src="images/Damaged Image.png" width="45%" />
-  <img src="images/Restored Image.png" width="45%" />
+  <img src="images/Damaged Image.png" width="300" height="200" style="object-fit: cover;"/>
+  <img src="images/Restored Image.png" width="300" height="200" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
