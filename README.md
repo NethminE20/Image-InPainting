@@ -64,16 +64,16 @@ Traditional approaches rely on texture propagation and diffusion methods (like T
 
 ## 📊 Results
 
-  -The trained model successfully reconstructs missing image regions, producing visually realistic restorations.
-  -Quantitative results show improvements in PSNR and SSIM over traditional inpainting techniques.
+  - The trained model successfully reconstructs missing image regions, producing visually realistic restorations.
+  - Quantitative results show improvements in PSNR and SSIM over traditional inpainting techniques.
 
 ---
 
 ## 🧠 Key Learnings
 
-  -Understanding GAN-based architectures for image translation tasks.
-  -Comparing traditional OpenCV methods with deep learning models.
-  -Implementing PSNR and SSIM to quantify image restoration quality.
+  - Understanding GAN-based architectures for image translation tasks.
+  - Comparing traditional OpenCV methods with deep learning models.
+  - Implementing PSNR and SSIM to quantify image restoration quality.
 
 ---
 
