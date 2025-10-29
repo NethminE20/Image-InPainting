@@ -67,6 +67,15 @@ This project focuses on **restoring damaged or missing regions in images** using
   - The trained model successfully reconstructs missing image regions, producing visually realistic restorations.
   - Quantitative results show improvements in PSNR and SSIM over traditional inpainting techniques.
 
+<p align="center">
+  <img src="images/Damaged Image.png" width="45%" />
+  <img src="images/Restored Image.png" width="45%" />
+</p>
+
+<p align="center">
+  <em>Left: Damaged | Right: Restored using Pix2Pix Model</em>
+</p>
+
 ---
 
 ## 🧠 Key Learnings
