@@ -49,13 +49,16 @@ Traditional approaches rely on texture propagation and diffusion methods (like T
    cd image-inpainting
    
 2. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
 
-3. **Run inference**
-    python test.py
+4. **Run inference**
+   ```bash
+   python test.py
 
-4. **Evaluate results**
-    python "PSNR & SSIM.py"
+6. **Evaluate results**
+   ```bash
+   python "PSNR & SSIM.py"
 
 ---
 
@@ -77,16 +80,16 @@ Traditional approaches rely on texture propagation and diffusion methods (like T
 ## 🌟 Contributors
 
 <a href="https://github.com/NethminE20">
-  <img src="https://avatars.githubusercontent.com/your-github-username" width="80" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/NethminE20" width="80" style="border-radius: 50%;" />
 </a>
-<a href="https://github.com/github-username2">
-  <img src="https://avatars.githubusercontent.com/github-username2" width="80" style="border-radius: 50%;" />
-</a>
-<a href="https://github.com/github-username3">
-  <img src="https://avatars.githubusercontent.com/github-username3" width="80" style="border-radius: 50%;" />
+<a href="https://github.com/kavindu016">
+  <img src="https://avatars.githubusercontent.com/kavindu016" width="80" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/github-username3">
   <img src="https://avatars.githubusercontent.com/github-username3" width="80" style="border-radius: 50%;" />
+</a>
+<a href="https://github.com/github-username4">
+  <img src="https://avatars.githubusercontent.com/github-username4" width="80" style="border-radius: 50%;" />
 </a>
 ---
 
