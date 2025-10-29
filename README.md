@@ -79,8 +79,8 @@ Traditional approaches rely on texture propagation and diffusion methods (like T
 
 ## 🌟 Contributors
 
-<a href="https://github.com/JanithM">
-  <img src="https://avatars.githubusercontent.com/JanithM" width="80" style="border-radius: 50%;" />
+<a href="https://github.com/janithm">
+  <img src="https://avatars.githubusercontent.com/janithm" width="80" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/kavindu016">
   <img src="https://avatars.githubusercontent.com/kavindu016" width="80" style="border-radius: 50%;" />
