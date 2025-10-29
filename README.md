@@ -88,8 +88,8 @@ Traditional approaches rely on texture propagation and diffusion methods (like T
 <a href="https://github.com/NethminE20">
   <img src="https://avatars.githubusercontent.com/NethminE20" width="80" style="border-radius: 50%;" />
 </a>
-<a href="https://github.com/github-username4">
-  <img src="https://avatars.githubusercontent.com/github-username4" width="80" style="border-radius: 50%;" />
+<a href="https://github.com/DinethShakya23">
+  <img src="https://avatars.githubusercontent.com/DinethShakya23" width="80" style="border-radius: 50%;" />
 </a>
 
 ---
