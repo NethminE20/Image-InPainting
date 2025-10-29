@@ -38,7 +38,7 @@ This project focuses on **restoring damaged or missing regions in images** using
 | `PSNR & SSIM.py` | Evaluation metrics |
 | `test.py` | Testing / inference script |
 | `history.pkl` | Saved training history |
-
+| `requirements.txt` | Lists all dependencies and required Python libraries |
 ---
 
 ## 🚀 How to Run
