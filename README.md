@@ -45,8 +45,8 @@ This project focuses on **restoring damaged or missing regions in images** using
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/image-inpainting.git
-   cd image-inpainting
+   git clone https://github.com/<your-username>/Image-InPainting.git
+   cd Image-InPainting.git
    
 2. **Install dependencies**
    ```bash
