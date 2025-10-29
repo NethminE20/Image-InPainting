@@ -31,11 +31,11 @@ Traditional approaches rely on texture propagation and diffusion methods (like T
 
 ## 🧩 Project Structure
 
-├── model.py # Defines the Pix2Pix model
-├── pix2pix_model.h5 # Trained model weights
-├── PSNR & SSIM.py # Evaluation metrics
-├── test.py # Testing / inference script
-├── history.pkl # Saved training history
+-├── model.py # Defines the Pix2Pix model
+-├── pix2pix_model.h5 # Trained model weights
+-├── PSNR & SSIM.py # Evaluation metrics
+-├── test.py # Testing / inference script
+-├── history.pkl # Saved training history
 
 
 ---
